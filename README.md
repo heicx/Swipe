@@ -102,5 +102,9 @@ Swipe is now compatible with all browsers, including IE7+. Swipe works best on d
 
 Shoot me a [note](mailto:brad@birdsall.co) if you want your logo here
 
+<<<<<<< HEAD
 ## License heichenxuan
+=======
+# License wuzixuan
+>>>>>>> dev
 Copyright (c) 2013 Brad Birdsall Licensed under the [The MIT License (MIT)](http://opensource.org/licenses/MIT).
